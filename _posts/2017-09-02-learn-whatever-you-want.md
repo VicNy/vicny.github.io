@@ -2,10 +2,9 @@
 title: Learn whatever you want!
 image: /images/perfecto-capucine-758998-unsplash.jpg
 author: john
-published: false
+published: true
 categories: 
     - work
-    - projects
 layout: post
 ---
 Learning is the act of acquiring new or modifying and reinforcing existing knowledge, behaviors, skills, values, or preferences which may lead to a potential change in synthesizing information, depth of the knowledge, attitude or behavior relative to the type and range of experience.

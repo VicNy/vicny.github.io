@@ -5,12 +5,6 @@ author: Missy
 published: true
 comments: true
 categories: 
-    - Readiness
-    - Fitness-To-Drive
-    - Teens
-    - Young Adults
-    - Driving Fitness
-    - Screening Tool
     - Research
 layout: post
 ---

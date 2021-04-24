@@ -5,9 +5,7 @@ author: Missy
 published: true
 comments: true
 categories: 
-    - Vision Therapy
-    - Pediatric OT
-    - Vestibular Rehab
+    - Research
 layout: post
 ---
 

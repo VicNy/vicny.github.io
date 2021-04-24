@@ -5,13 +5,7 @@ author: Missy
 published: true
 comments: true
 categories: 
-    - Readiness-To-Drive
-    - Fitness-To-Drive
-    - Road Safety
-    - Visual Perception
-    - Cognitive Processing
-    - Presentation
-    - OT Drive Model
+    - Readiness
 layout: post
 ---
 

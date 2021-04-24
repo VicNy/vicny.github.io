@@ -6,10 +6,6 @@ published: true
 comments: true
 categories: 
     - Readiness
-    - Fitness-To-Drive
-    - Teens
-    - Young Adults
-    - Community Mobility
 layout: post
 ---
 

@@ -2,10 +2,9 @@
 title: Do what you like!
 image: /images/julia-caesar-15080-unsplash.jpg
 author: john
-published: false
+published: true
 categories: 
     - life
-    - work
 layout: post
 ---
 

@@ -5,9 +5,7 @@ author: Missy
 published: true
 comments: true
 categories: 
-    - Sensory Integration
-    - Sensory Processing Disorder
-    - Sensory Therapy
+    - Research
 layout: post
 ---
 

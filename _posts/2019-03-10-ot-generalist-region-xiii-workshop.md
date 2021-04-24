@@ -5,9 +5,7 @@ author: Missy
 published: true
 comments: true
 categories: 
-    - Pediatric OT
-    - Region XIII
-    - Driving Readiness
+    - Driving
 layout: post
 ---
 

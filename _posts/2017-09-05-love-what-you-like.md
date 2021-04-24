@@ -2,10 +2,9 @@
 title: Love whatever you like!
 image: /images/round-leaved-bellflower-1576086_1280.jpg
 author: john
-published: false
+published: true
 categories: 
     - life
-    - adventure
 layout: post
 ---
 
