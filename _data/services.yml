@@ -1,14 +1,14 @@
 - title:      Professional Assessment
   description:  Providing comprehensive medical screening, testing, and reporting for driving needs across the age span&#58; Driving Readiness Screening for Teens; Potential-to-Drive-Safe Clinical Assessments; Comprehensive Safe Driving Evaluation (including Behind-the-Wheel), and Individual Driving Plans (IDP). All recommendations are based on supporting evidence and can be utilized to get further training and support services.
-  fa-icon:      "fa-clipboard-list-check fa-lg"
+  fa-icon: fa-object-group
   link:
 
 - title:      Mobile Services
   description:  Serving the Austin-Metro Region and beyond for convenience and necessity. Most clients prefer assessment, training, and consultation in a comfortable and familiar setting whenever possible. If services are requested through a clinic, hospital, or driving school those options can be discussed as a part of the IDP. Due to payer restrictions and for liability reasons, some service limitations may be identified.
-  fa-icon:      "fa-car-side fa-lg"
+  fa-icon: fa-code
   link:
 
 - title:      Support and Education
   description:  Determining if driving or other community mobility options is the best and safest choice for yourself or a family member can be a difficult experience. Clear, regular communication as well as therapeutic support is a necessary component to assisting with these difficult decision making processes. In cases where equipment or family-assisted driver training may be beneficial, guidance can be offered.
-  fa-icon:      "fa-hand-holding-heart fa-lg"
+  fa-icon: fa-paper-plane-o
   link:
