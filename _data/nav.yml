@@ -7,8 +7,11 @@
 - title: Contact
   link: '/contact/'
   
-- title: Projects
+- title: Blog
   link: '/blog/'
+
+- title: Search
+  link: '/search/'  
   
 - title: Resources
   link: '/resources/'
