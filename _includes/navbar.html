@@ -1,0 +1,19 @@
+<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-white">
+	<div class="container">
+		<a class="navbar-brand" href="/">
+			<img src="/images/steering-wheel-nav.png" class="d-inline-block align-top logo2" alt="{{site.title}}">
+			  {{site.title-min}}
+		</a>
+
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+			<div class="navbar-nav ml-auto">
+				{% for item in site.data.nav %}
+				<a class="nav-item nav-link {% if page.url == item.link %}active{% endif %}" href="{{item.link}}">{{item.title}}</a>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+</nav>
